@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<title>Trix's Page</title>
+</head>
+<body>
+<style>
+a:link {
+	color:green;
+	background-color: transparent;
+	text-decoration: none;
+}
+a:visited {
+	color: pink;
+	background-color: transparent;
+	text-decoration: none;
+}
+a:hover {
+	color: red;
+	background-color: transparent;
+	text-decoration: none;
+}
+a:active {
+	color: yellow;
+	backgroundcolor: transparent;
+	text-decoration: none;
+}
+</style>
+<h1 style="border:10px solid dodgerblue;text-align:center;font-family:verdana;font-size:300%;background-color:powderblue;">Is this real life?</h1>
+<hr>
+<h2>Is this just fantasy?</h2>
+<h3 style="background-color:tomato;">Caught in a landslide, no escape from reality.</h3>
+<p title="I'm a Queen's song">Easy come, easy go, little high, little low.
+<br>
+Anywhere the wind blows, doesn't really matter to me...</p>
+
+<a href="#C1">Jump to Chapter 1</a>
+<br>
+<a href="https://www.w3schools.com" target="_blank">Link blank</a>
+<br>
+<a href="https://www.w3schools.com" target="_self">Link Self</a>
+<br>
+<a href="https://www.w3schools.com" target="_parent">Link parent</a>
+<br>
+<a href="https://www.w3schools.com" target="_top">Link top</a>
+<br>
+<a href="http://www.google.com" target="_blank"><img src="C:/Users/beatriz.rogatis/downloads/IMG_3646.jpg" style="float:right;" alt="Rick and Morty with Jesus" width="400" height="250"></a>
+<br>
+<p style="color:blue;" title='The "The Dog" Dog'>Blu is the warmest color.</p>
+<br>
+<hr>
+<br>
+<b><h1 id="C1">This text is bold</h1></b>
+<br>
+<strong>This text is important</strong>
+<br>
+<i>This text is italic</i>
+<br>
+<em>This text is emphasized</em>
+<br>
+<small>This is a smaller text</small>
+<br>
+<hr>
+<br>
+<p><mark>Do not forget</mark> to buy <del>milk</del> <ins>bread</ins>
+<br>
+This is a <sub>subscripted</sub> text
+<br>
+This is <sup>superscripted</sup> text</p>
+<br><bdo dir="rtl">This text will be written from right to left</bdo>
+<br>
+<br>
+<hr>
+<br>
+<br>
+<a href="http://www.google.com" target="_blank"><button onclick="http://www.google.com" style="height:200px;width:400px;font-size:80px;border:10px solid dodgerblue;"><b>Google It!</b></button></a>
+<br>
+<br>
+<br>
+<a href="C:/Users/beatriz.rogatis/Downloads/teste_2.htm" target="_blank">Test Link</a>
+<br>
+</style>
+</body>
+</html>
